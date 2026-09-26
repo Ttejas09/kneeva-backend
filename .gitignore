@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+catboost_info/
+data/
+dataset/
+.venv/
+env/
+venv/
+ENV/
+*.log
